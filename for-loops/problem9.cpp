@@ -17,7 +17,7 @@ int main(){
 		sumofodd+=i;}
 	}
 	
-	cout<<sumofeven <<endl;
-	cout<<sumofodd;
+	cout<<"Sum Of Even Numbers Is: " <<sumofeven <<endl;
+	cout<<"Sum Of Odd Numbers Is: " <<sumofodd;
 	
 }
