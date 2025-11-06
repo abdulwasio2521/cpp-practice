@@ -12,5 +12,5 @@ int main(){
 	for(int i=1; i<=n; i++){
 		fact*=i;
 	}
-	cout<<"The Factorial Of " <<n <<" Is " <<fact;
+	cout<<"The factorial of " <<n <<" is " <<fact;
 }
