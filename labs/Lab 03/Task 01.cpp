@@ -1,14 +1,15 @@
 #include<iostream>
 using namespace std;
 int main(){
+	
 	float a;
 	float b;
 	
-	cout<<"Enter First Number: ";
+	cout<<"Enter the First Number: ";
 	cin>>a;
-	cout<<"Enter Second Number: ";
+	cout<<"Enter the Second Number: ";
 	cin>>b;
-	cout<<" " <<endl; //created this for only line space
+	cout<<" " <<endl;
 	
 	cout<<"The Arithmetic Operators" <<endl;
 	cout<<"The Addition is: "<<a+b <<endl;
