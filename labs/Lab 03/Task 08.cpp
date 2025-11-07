@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    
     bool x;
     bool y;
 
