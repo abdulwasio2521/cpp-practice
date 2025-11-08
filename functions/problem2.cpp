@@ -12,9 +12,9 @@ int main(){
 	
 	int a;
 	int b;
-	cout<<"Enter First Number: ";
+	cout<<"Enter the First Number: ";
 	cin>>a;
-	cout<<"Enter Second Number: ";
+	cout<<"Enter the Second Number: ";
 	cin>>b;
 	
 	cout<< "The Difference Of " <<a <<" and " <<b <<" Is " <<differ(a,b);
