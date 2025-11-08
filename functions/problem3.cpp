@@ -11,11 +11,11 @@ using namespace std;
 int main(){
 	
 	int x, y, z;
-	cout<<"Enter First Number: ";
+	cout<<"Enter the First Number: ";
 	cin>>x;
-	cout<<"Enter Second Number: ";
+	cout<<"Enter the Second Number: ";
 	cin>>y;
-	cout<<"Enter Third Number: ";
+	cout<<"Enter the Third Number: ";
 	cin>>z;
 	
 	cout<<"The Product Is: " <<fun(x,y,z);
