@@ -10,7 +10,7 @@ int main(){
 	int sum = 0;
 	
 	for(int i = 1; i<=n; i++){
-		cout<<i <<endl;
+		cout<<i <<" ";
 		sum += i;
 	}
 	cout<<"The Sum Of All Numbers Is: " <<sum;
