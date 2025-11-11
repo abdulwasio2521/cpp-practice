@@ -4,8 +4,7 @@ using namespace std;
 
 	int fun(int a, int b, int c);
 	int fun(int a, int b, int c){
-		int m = a*b*c;
-		return m;
+		cout<<a*b*c;
 	}
 
 int main(){
@@ -18,6 +17,6 @@ int main(){
 	cout<<"Enter the Third Number: ";
 	cin>>z;
 	
-	cout<<"The Product Is: " <<fun(x,y,z);
+	cout<<"The Product Is: " << fun(x,y,z);
 	
 }
