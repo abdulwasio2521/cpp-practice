@@ -3,9 +3,9 @@
 using namespace std;
 	void fun(int a);
 	void fun(int a){
-		if(a>0) cout<<"Positive";
-		else if(a<0) cout<<"Negative";
-		else cout<<"Zero";
+		if(a>0) cout<<"POSITIVE";
+		else if(a<0) cout<<"NEGATIVE";
+		else cout<<"ZERO";
 	}
 int main(){
 	
