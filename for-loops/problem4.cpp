@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	
 	int n;
-	cout<<"Enter Any Number Here: ";
+	cout<<"Enter the Number Of Terms here: ";
 	cin>>n;
 	
 	int sum = 0;
