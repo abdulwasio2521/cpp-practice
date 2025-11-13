@@ -12,6 +12,6 @@ int main(){
 		if(i%3==0) 
 		count++;
 	}
-	cout<<"The Total Number Divsible By 3 between 1 and " <<n <<" are = " <<count;
+	cout<<"The Total Number Divsible By 3 between 1 and " <<n <<" are: " <<count;
 	
 }
