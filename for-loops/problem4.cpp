@@ -4,13 +4,13 @@ using namespace std;
 int main(){
 	
 	int n;
-	cout<<"Enter the Number Of Terms here: ";
+	cout<<"Enter Number Of Terms here: ";
 	cin>>n;
 	
 	int sum = 0;
 	
 	for(int i = 1; i<=n; i++){
-		cout<<i <<endl;
+		cout<<i <<" ";
 		sum += i;
 	}
 	cout<<"The Sum Of All Numbers Is: " <<sum;
