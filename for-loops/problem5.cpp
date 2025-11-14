@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	
 	int n;
-	cout<<"Enter Any Number Here: ";
+	cout<<"Enter Any Number: ";
 	cin>>n;
 	
 	cout<<"\nMultiplication Table of " <<n <<":" <<endl;
