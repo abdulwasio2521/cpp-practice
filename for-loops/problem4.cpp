@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	
 	int n;
-	cout<<"Enter Any Number Here:";
+	cout<<"Enter Any Number Here: ";
 	cin>>n;
 	
 	int sum = 0;
@@ -13,5 +13,5 @@ int main(){
 		cout<<i <<" ";
 		sum += i;
 	}
-	cout<<"The Sum Of All Numbers Is:" <<sum;
+	cout<<"The Sum Of All Numbers Is: " <<sum;
 }
