@@ -13,5 +13,5 @@ int main(){
 		cout<<i <<" ";
 		sum += i;
 	}
-	cout<<"The Sum Of All Numbers Is: " <<sum;
+	cout<<"The Sum Of All Numbers Is:" <<sum;
 }
