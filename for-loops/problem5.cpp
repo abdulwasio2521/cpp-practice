@@ -7,7 +7,7 @@ int main(){
 	cout<<"Enter Any Number Here: ";
 	cin>>n;
 	
-	cout<<"\nMultiplication Table of " <<n <<":" <<endl;
+	cout<<"\nMultiplication Table of " <<n <<":" <<" ";
 	
 	for(int i = 1; i<=10; i++){
 		cout<<n <<" x " <<i <<" = " <<n*i <<endl;
