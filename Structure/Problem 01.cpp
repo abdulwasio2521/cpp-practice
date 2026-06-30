@@ -26,7 +26,7 @@ int main(){
 	cout<<"Enter name of third student = ";
 	cin>>s3.name;
 	
-	cout<<endl;
+	cout<<" ";
 	
 	cout<<"Enter Roll No of first student = ";
 	cin>>s1.rollno;
